@@ -1,1 +1,0 @@
-document.getElementById('copyright').replaceWith(document.createTextNode(new Date().getFullYear()))
